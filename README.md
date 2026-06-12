@@ -278,52 +278,14 @@ streamlit run app.py
 
 ---
 
-## Results
 
-Key findings from the analysis include:
 
-* Significant chart re-entry behavior across multiple artists.
-* Fandom-driven engagement plays a major role in chart resurgence.
-* Comeback momentum often outperforms organic popularity growth.
-* Explicit tracks demonstrate lower comeback sustainability.
-* Re-entry frequency is a strong indicator of fandom activation.
+Submitted By:
 
----
-
-## Business Recommendations
-
-### For Atlantic Recording Corporation
-
-1. Track re-entry frequency as a strategic KPI.
-2. Optimize comeback campaign timing.
-3. Invest in fandom engagement initiatives.
-4. Prioritize momentum sustainability over short-term peaks.
-5. Develop artist-specific momentum dashboards.
-
----
-
-## Future Enhancements
-
-* Machine Learning-Based Momentum Prediction
-* Time Series Forecasting (ARIMA/Prophet)
-* Sentiment Analysis Integration
-* Social Media Engagement Tracking
-* Artist Clustering and Segmentation
-* Real-Time Dashboard Updates
-
----
-
-## Author
-
-Name: Your Name
+Name:Yash Mittal
 
 Project: South Korea Top 50 Playlist Analytics
 
-Domain: Music Analytics | Data Science | Business Intelligence
+Domain: Data Analytics
 
----
-
-## License
-
-This project is intended for educational, research, and analytical purposes.
 
